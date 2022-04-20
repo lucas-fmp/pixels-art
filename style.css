@@ -1,0 +1,46 @@
+#black {
+  background-color: black;
+  border: 1px solid black;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+}
+
+#gray {
+  background-color: gray;
+  border: 1px solid black;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+}
+
+#red {
+  background-color: red;
+  border: 1px solid black;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+}
+
+#yellow {
+  background-color: yellow;
+  border: 1px solid black;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+}
+
+.pixel {
+  background-color: white;
+  border: 1px solid black;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  padding: 0px;
+  margin: 0px;
+}
+
+.line {
+  width: 210px;
+  height: 42px;
+}
